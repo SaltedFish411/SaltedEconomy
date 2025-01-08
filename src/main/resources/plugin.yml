@@ -1,0 +1,11 @@
+main: org.saltedfish.saltedeconomy.SaltedEconomy
+version: 1.0.0
+name: SaltedEconomy
+author: SaltedFish
+commands:
+  saltedeconomy:
+    permission: saltedeconomy.command
+    permission-message: "&c你没有权限执行此命令"
+    usage: "&c用法: /saltedeconomy <参数>"
+    description: "&aSaltedEconomy管理插件"
+    aliases: [se]
